@@ -4,7 +4,7 @@
 
 Each pixel becomes a colored media item on a track. The result looks like this:
 
-![example](example.png)
+![example](example.jpg)
 
 ## How it works
 
