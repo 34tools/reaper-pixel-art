@@ -16,7 +16,7 @@ Each pixel becomes a colored media item on a track. The result looks like this:
 
 ## 🌐 Try it
 
-**[reaper-pixel-art.github.io/reaper-pixel-art](https://your-link-here)** ← replace with your link
+**[reaper-pixel-art.github.io/reaper-pixel-art](https://34tools.github.io/reaper-pixel-art/)** ← replace with your link
 
 No installation required. Everything runs in the browser — your photo never leaves your device.
 
