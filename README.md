@@ -90,10 +90,9 @@ Note: zoom is set at generation time for the current window size. Resizing the R
 MIT
 
 ---
-![Pixel art rendered in REAPER](hi!.png)
 
-<p align="center">
-  <img src="hi!.png" alt="hi!" width="400">
+<p align="left">
+  <img src="hi!.png" alt="hi!" width="200">
 </p>
 
 *Made by [Patch34](https://github.com/patch-34) as a "joke but real" tool.*
