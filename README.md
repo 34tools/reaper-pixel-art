@@ -39,7 +39,7 @@ To install js_ReaScriptAPI:
 
 ## How it works
 
-![Pixel art rendered in REAPER](screenshots/example.png)
+![Pixel art rendered in REAPER](screenshots/bee.png)
 
 ### Color handling
 
