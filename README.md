@@ -4,7 +4,7 @@ Turn any image into pixel art on the REAPER timeline. Each pixel becomes a color
 
 **[→ Try it live](https://patch-34.github.io/reaper-pixel-art)**
 
-![Pixel art rendered in REAPER](example.png)
+![Pixel art rendered in REAPER](image.png)
 
 ## What it does
 
