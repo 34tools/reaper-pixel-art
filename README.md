@@ -93,7 +93,7 @@ MIT
 ![Pixel art rendered in REAPER](hi!.png)
 
 <p align="center">
-  <img src="images/hi!.png" alt="hi!" width="400">
+  <img src="hi!.png" alt="hi!" width="400">
 </p>
 
 *Made by [Patch34](https://github.com/patch-34) as a "joke but real" tool.*
