@@ -94,5 +94,4 @@ MIT
 <p align="left">
   <img src="hi!.png" alt="hi!" width="200">
 </p>
-
 *Made by [Patch34](https://github.com/patch-34) as a "joke but real" tool.*
