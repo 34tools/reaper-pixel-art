@@ -39,7 +39,7 @@ To install js_ReaScriptAPI:
 
 ## How it works
 
-![Pixel art rendered in REAPER](example-3.png)
+![Pixel art rendered in REAPER](example-2.png)
 
 ### Color handling
 
@@ -90,5 +90,6 @@ Note: zoom is set at generation time for the current window size. Resizing the R
 MIT
 
 ---
+![Pixel art rendered in REAPER](hi!.png)
 
 *Made by [Patch34](https://github.com/patch-34) as a "joke but real" tool.*
