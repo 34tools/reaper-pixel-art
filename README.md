@@ -37,6 +37,8 @@ To install js_ReaScriptAPI:
 2. In REAPER: **Extensions → ReaPack → Browse packages**
 3. Search for `js_ReaScriptAPI`, install, restart REAPER
 
+![Pixel art rendered in REAPER](example-3.png)
+
 ## How it works
 
 ### Color handling
