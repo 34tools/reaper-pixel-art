@@ -4,7 +4,7 @@ Turn any image into pixel art on the REAPER timeline. Each pixel becomes a color
 
 **[→ Try it live](https://patch-34.github.io/reaper-pixel-art)**
 
-![Pixel art rendered in REAPER](example.png)
+![Pixel art rendered in REAPER](screenshots/example.png)
 
 ## What it does
 
@@ -39,7 +39,7 @@ To install js_ReaScriptAPI:
 
 ## How it works
 
-![Pixel art rendered in REAPER](example-2.png)
+![Pixel art rendered in REAPER](screenshots/example-2.png)
 
 ### Color handling
 
@@ -92,7 +92,7 @@ MIT
 ---
 
 <p align="left">
-  <img src="hi!.png" alt="hi!" width="200">
+  <img src="screenshots/hi!.png" alt="hi!" width="200">
 </p>
 
 *Made by [Patch34](https://github.com/patch-34) as a "joke but real" tool.*
