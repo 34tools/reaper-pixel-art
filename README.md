@@ -6,6 +6,8 @@ Turn any image into pixel art on the REAPER timeline. Each pixel becomes a color
 
 ![Pixel art rendered in REAPER](screenshots/example.png)
 
+![Pixel art rendered in REAPER](screenshots/generator.png)
+
 ## What it does
 
 Upload a photo → tweak resolution and palette → download a `.lua` script → run it in REAPER → your image appears as colored items on the timeline.
