@@ -79,14 +79,6 @@ This works on any screen because it measures real values instead of assuming the
 
 Note: zoom is set at generation time for the current window size. Resizing the REAPER window or changing monitors will break squareness — this is a fundamental limitation of how REAPER handles zoom.
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `index.html` | Web generator (the whole app, single file) |
-| `image_to_reaper_pixels.py` | CLI version for advanced users |
-| `LICENSE` | MIT |
-
 ## Tech stack
 
 - **Frontend**: Vanilla JS, Canvas API, single-file HTML
