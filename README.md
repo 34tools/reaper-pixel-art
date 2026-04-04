@@ -4,35 +4,9 @@ Turn any image into pixel art on the REAPER timeline. Each pixel becomes a color
 
 **[→ Try it live](https://patch-34.github.io/reaper-pixel-art)**
 
-<table>
-  <tr>
-    <td><img src="screenshots/generator.png" alt="Generator" width="400"></td>
-    <td><img src="screenshots/example.png" alt="Result in REAPER" width="400"></td>
-  </tr>
-</table>
-
 ![Pixel art rendered in REAPER](screenshots/generator.png)
 
 ![Pixel art rendered in REAPER](screenshots/example.png)
-
-
-<table>
-  <tr>
-    <td><img src="screenshots/generator.png" alt="Generator" width="400"></td>
-    <td><img src="screenshots/example.png" alt="Result in REAPER" width="400"></td>
-  </tr>
-</table>
-
-
-<p align="left">
-  <img src="screenshots/generator.png" alt="generator" width="200">
-</p>
-
-<p align="left">
-  <img src="screenshots/example.png" alt="example" width="200">
-</p>
-
-
 
 ## What it does
 
